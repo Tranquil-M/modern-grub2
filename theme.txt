@@ -38,15 +38,3 @@ terminal-box: "images/terminal_box_*.png"
   scrollbar_frame = "images/scroll_frame_*"
 }
 
-+ progress_bar {
-  id = "__timeout__"
-  text = "@TIMEOUT_NOTIFICATION_SHORT@"
-
-  left = 20%
-  width = 60%
-  top = 85%
-
-  text_color = "red"
-  bar_style = "*"
-  highlight_style = "*"
-}
