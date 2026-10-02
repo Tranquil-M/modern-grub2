@@ -32,6 +32,6 @@ This was originally supposed to be used in a Ventoy installation, the steps of w
    sudo grub-mkconfig -o /boot/grub/grub.cfg
    ```
 > [!NOTE]
-> Your grub configuration file is usually found ing `/etc/default/grub`
+> Your grub configuration file is usually found in `/etc/default/grub`
 - - -
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I61Z3QJH)
