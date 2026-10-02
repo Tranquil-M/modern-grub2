@@ -6,26 +6,26 @@ message-color: "#f2f2f2"
 terminal-box: "images/terminal_box_*.png"
 
 + boot_menu {
-  left = 10%
-  width = 80%
+  left = 35%
+  width = 30%
   top = 30%
   height = 50%
 
   menu_pixmap_style = "images/menu_*.png"
 
   item_color = "#ffffff"  
-  item_height = 30
+  item_height = 40
   
-  item_spacing = 1
-  item_padding = 1
+  item_spacing = 5
+  item_padding = 2
 
-  selected_item_color= "#f2f2f2"
+  selected_item_color= "#273143"
   selected_item_pixmap_style = "images/select_*.png"
 
   item_icon_space = 16
 
   scrollbar = true
-  scrollbar_width = 10
+  scrollbar_width = 15
   scrollbar_thumb = "images/slider_*.png"
 }
 
